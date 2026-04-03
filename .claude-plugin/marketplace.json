@@ -1,6 +1,10 @@
 {
-  "name": "Mes Skills Claude",
+  "name": "mes-skills-claude",
   "description": "Mes skills personnels pour Claude",
   "version": "1.0.0",
+  "owner": {
+    "name": "CYRIL-Creator656",
+    "url": "https://github.com/CYRIL-Creator656"
+  },
   "plugins": []
 }
